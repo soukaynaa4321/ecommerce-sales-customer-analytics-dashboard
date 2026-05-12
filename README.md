@@ -49,3 +49,17 @@ Analyzes geographic performance using a map, total orders by country, total reve
 ## Project Objective
 
 The goal of this project is to demonstrate skills in data cleaning, DAX measures, dashboard design, business analysis, and data visualization using Power BI.
+
+## Dashboard Preview
+
+### Sales Overview
+![Sales Overview](sales-overview.png)
+
+### Product Performance Analysis
+![Product Performance](product-performance.png)
+
+### Customer Behavior Analysis
+![Customer Analysis](customer-analysis.png)
+
+### Country & Market Performance Analysis
+![Market Analysis](market-analysis.png)
